@@ -23,6 +23,13 @@
   </a>
 </p>
 
+<p>
+  🌐 Website:  
+  <a href="https://kbtc.space.z.ai/" target="_blank">
+    https://kbtc.space.z.ai/
+  </a>
+</p>
+
 <p><i>Digital Scarcity on Ethereum — Inspired by Bitcoin</i></p>
 
 </div>
