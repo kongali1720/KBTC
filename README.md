@@ -25,8 +25,8 @@
 
 <p>
   🌐 Website:  
-  <a href="https://kbtc.space.z.ai/" target="_blank">
-    https://kbtc.space.z.ai/
+  <a href="https://kbtc.kongalicoin.id/" target="_blank">
+    https://kbtc.kongalicoin.id/
   </a>
 </p>
 
