@@ -10,6 +10,21 @@
   <img src="https://img.shields.io/badge/Phase-Genesis%20%2F%20Pre--Market-yellow"/>
 </p>
 
+<br/>
+
+<img src="https://raw.githubusercontent.com/kongali1720/KBTC/main/Futuristic%20Kongali%20cryptocurrency%20coin%20design.png" width="300"/>
+
+<br/><br/>
+
+<p>
+  🌐 Website:  
+  <a href="https://kbtc.space.z.ai/" target="_blank">
+    https://kbtc.space.z.ai/
+  </a>
+</p>
+
+<p><i>Digital Scarcity on Ethereum — Inspired by Bitcoin</i></p>
+
 </div>
 
 ---
